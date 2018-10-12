@@ -89,6 +89,8 @@ class App extends React.Component {
 ReactDOM.render(<App />, document.getElementById("root"));
 ```
 
+[![Edit l4rzmzvq37](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/s/l4rzmzvq37)
+
 ---
 
 ## Really, though…
