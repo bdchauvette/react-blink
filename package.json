@@ -1,0 +1,41 @@
+{
+  "name": "@squib/react-blink",
+  "version": "0.0.0",
+  "description": "<blink> for the 21st century",
+  "author": "Ben Chauvette <bdchauvette@gmail.com>",
+  "license": "0BSD",
+  "keywords": [
+    "react",
+    "blink"
+  ],
+  "homepage": "https://github.com/squib/react-blink#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/squib/react-blink.git"
+  },
+  "bugs": {
+    "url": "https://github.com/squib/react-blink/issues"
+  },
+  "scripts": {
+    "test": "jest",
+    "lint": "eslint *.js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "lodash.split": "^4.0.0",
+    "prop-types": "^15.6.2"
+  },
+  "peerDependencies": {
+    "react": ">=16.3.0"
+  },
+  "devDependencies": {
+    "eslint": "5.6.0",
+    "eslint-config-prettier": "3.1.0",
+    "eslint-plugin-compat": "2.5.1",
+    "eslint-plugin-prettier": "2.7.0",
+    "eslint-plugin-react": "7.11.1",
+    "prettier": "1.14.3",
+    "react": "16.5.2",
+    "react-dom": "16.5.2"
+  }
+}
