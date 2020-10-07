@@ -1,6 +1,6 @@
 {
   "name": "@bdchauvette/react-blink",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "<blink> for the 21st century",
   "author": "Ben Chauvette <bdchauvette@gmail.com>",
   "license": "0BSD",
