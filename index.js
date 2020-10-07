@@ -23,7 +23,7 @@ export class Blink extends React.Component {
   }
 
   render() {
-    return React.createElement(BlinkContext.Consumer, null, disabled =>
+    return React.createElement(BlinkContext.Consumer, null, (disabled) =>
       React.createElement(
         "div",
         disabled ? null : { className },
@@ -53,10 +53,10 @@ function addStyleSheet() {
       .${className} {
         animation: none;
       }
-    }`
+    }`,
   ];
 
-  rules.forEach(rule => sheet.insertRule(rule, sheet.length - 1));
+  rules.forEach((rule) => sheet.insertRule(rule, sheet.length - 1));
 
   return $style;
 }

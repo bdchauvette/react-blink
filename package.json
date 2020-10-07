@@ -22,20 +22,20 @@
   },
   "main": "index.js",
   "dependencies": {
-    "lodash.split": "^4.0.0",
-    "prop-types": "^15.6.2"
+    "lodash.split": "^4.4.2",
+    "prop-types": "^15.7.2"
   },
   "peerDependencies": {
     "react": ">=16.3.0"
   },
   "devDependencies": {
-    "eslint": "5.6.0",
-    "eslint-config-prettier": "3.1.0",
-    "eslint-plugin-compat": "2.5.1",
-    "eslint-plugin-prettier": "2.7.0",
-    "eslint-plugin-react": "7.11.1",
-    "prettier": "1.14.3",
+    "eslint": "7.10.0",
+    "eslint-config-prettier": "6.12.0",
+    "eslint-plugin-compat": "3.8.0",
+    "eslint-plugin-prettier": "3.1.4",
+    "eslint-plugin-react": "7.21.3",
+    "prettier": "2.1.2",
     "react": "16.5.2",
-    "react-dom": "16.5.2"
+    "react-dom": "16.13.1"
   }
 }
