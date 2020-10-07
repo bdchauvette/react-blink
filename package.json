@@ -1,5 +1,5 @@
 {
-  "name": "@squib/react-blink",
+  "name": "@bdchauvette/react-blink",
   "version": "1.0.0",
   "description": "<blink> for the 21st century",
   "author": "Ben Chauvette <bdchauvette@gmail.com>",
@@ -8,13 +8,13 @@
     "react",
     "blink"
   ],
-  "homepage": "https://github.com/squib/react-blink#readme",
+  "homepage": "https://github.com/bdchauvette/react-blink#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/squib/react-blink.git"
+    "url": "git+https://github.com/bdchauvette/react-blink.git"
   },
   "bugs": {
-    "url": "https://github.com/squib/react-blink/issues"
+    "url": "https://github.com/bdchauvette/react-blink/issues"
   },
   "scripts": {
     "test": "jest",

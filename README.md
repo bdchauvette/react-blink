@@ -1,4 +1,4 @@
-# @squib/react-blink
+# @bdchauvette/react-blink
 
 > `<blink>` for the 21st century
 
@@ -11,7 +11,7 @@
 ## Installation
 
 ```sh
-npm install @squib/react-blink
+npm install @bdchauvette/react-blink
 ```
 
 ## Usage
@@ -19,7 +19,7 @@ npm install @squib/react-blink
 ```javascript
 import React from "react";
 import ReactDOM from "react-dom";
-import { Blink } from "@squib/react-blink";
+import { Blink } from "@bdchauvette/react-blink";
 
 ReactDOM.render(<Blink>👁️ 👁️</Blink>, document.getElementById("root"));
 ```
@@ -61,7 +61,7 @@ and use the `disabled` prop to control whether the animation is used:
 ```javascript
 import React from "react";
 import ReactDOM from "react-dom";
-import { Blink, BlinkProvider } from "@squib/react-blink";
+import { Blink, BlinkProvider } from "@bdchauvette/react-blink";
 
 class App extends React.Component {
   state = {

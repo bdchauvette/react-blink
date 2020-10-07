@@ -1,6 +1,6 @@
 import React from "react";
 
-const className = "squib-react-blink";
+const className = "bdchauvette-react-blink";
 const animationName = `${className}-keyframes`;
 let styleSheetWasAdded = false;
 
